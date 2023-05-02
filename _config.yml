@@ -1,0 +1,97 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: Topology For Data Science
+# Description of the Site
+description: An NSF Workshop for Undergraduates in Bozeman, Montana
+# URL of Image of the Site
+site-image: /WhatATheme/assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url: 
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://www.nps.gov/npgallery/GetAsset/34F574D2-1DD8-B71B-0BDE3EA69DD198E8/proxy/hires?
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: benjamin.holmgren1@student.montana.edu
+facebook_username: 
+twitter_username: topologybee
+instagram_username: 
+linkedin_username:
+github_username: benholmgren
+youtube_channel_id: 
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
+
+# Google Analytics
+google-analytics: 
+
+# Disqus
+disqus-shortname: thedevslot
+
+# Name of the Author
+author-name: T4DS Workshop Organizers
+# URL for the Image of the Author
+author-image: https://www.montana.edu/creativeservices/images/MSU-mm-sm.jpg
+# 60 Words About the Author
+author-about: Topology for Data Science (T4DS) is a two-day workshop designed to introduce undergraduates to data science and topology. Participants will gain experience with the topological data analysis (TDA) pipeline, and will apply the new knowledge to investigating the changing shape of glaciers in Glacier National Park. The T4DS Workshop is co-Organized by Dr. Brittany Fasy and Ben Holmgren with support from the National Science Foundation and the  Gianforte School of Computing at Montana State University. 
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://www.montana.edu/datascience/t4ds/
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
