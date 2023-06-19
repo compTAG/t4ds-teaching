@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Topology For Data Science
+title: How to Run a T4DS-Style Workshop
 # Description of the Site
-description: Instructions to Build From the T4DS Workshop in Bozeman, Montana
+description: Instructions to Build From the 2023 T4DS Workshop
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://www.nps.gov/npgallery/GetAsset/34F574D2-1DD8-B71B-0BDE3EA69DD198E8/proxy/hires?
+heroimage: https://www.nps.gov/npgallery/GetAsset/CFFD845E-1DD8-B71B-0BE8BE270F325EB5/proxy/hires?
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
