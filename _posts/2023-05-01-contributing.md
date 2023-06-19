@@ -1,5 +1,5 @@
 ---
-title: Instructions for Contributing
+title: Instructions for Contributing to the T4DS Site Structure
 layout: post
 post-image: "https://comptag.github.io/t4ds-teaching/assets/images/beehive.jpg"
 description: How to use the T4DS Workshop materials, or adapt them to your own workshop setting.
@@ -119,9 +119,7 @@ In general, everything in this template is readily customizable, and accessible 
 Variables are changed, removed, or created in the `_config.yml` file. Beware when making edits to this file, they can
 affect the entire site!
 
-## Updating Workshop Materials
-
-To update the workshop materials themselves, edit the markdown files located in
-`_posts`. (Or, create your own new markdown files!)  
+If you would like more practice making these kinds of edits, we suggest customizing the site footer.
+Perhaps try changing the links in the site footer from MSU associated websites to your own.
 
 ---
