@@ -30,8 +30,13 @@ located in `_layouts`. Let's try this together.
 ### Stylizing the Introductory Page Frontmatter
 
 All of the material for the introductory page standing alone is located in
-`_config.yml`. Go ahead and try changing the title, the description, and the author image in there.
+`_config.yml`. Go ahead and try changing the title, and the description to anything you would like.
 You can try testing your changes by pushing to the `gh-pages` branch.
+
+Likely, you will want to change the heroimage to something specific to your workshop. This can be done by either:
+1. Linking to an image somewhere on the internet (for example, we used open source NPS images.)
+2. Linking to an image on the internet within the assets of this website
+3. Linking to an image using relative path within the directory.
 
 To update the workshop materials themselves, edit the markdown files located in
 `_posts`. (Or, create your own new markdown files!)  
