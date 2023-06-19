@@ -109,6 +109,15 @@ Insert the following `<a>` element in the corresponding
 ```
 
 After committing and pushing, you should see your site update with a new tab, linking to the first tutorial.
+While doing so, you might notice a few things:
+
+1. The base site url is populated by variables set in the `_config.yml` file, which gives build instructions.
+2. It is possible to use logic based on variables set in `_config.yml` (We can even use loops, see line 42 of `footer.html`).
+3. Our workshop materials are populated by `.md` files in the `/blog/` subdirectory, named by the title of the `.md` file.
+
+In general, everything in this template is readily customizable, and accessible via the suspected `.html` file in `_includes`.
+Variables are changed, removed, or created in the `_config.yml` file. Beware when making edits to this file, they can
+affect the entire site!
 
 ## Updating Workshop Materials
 
