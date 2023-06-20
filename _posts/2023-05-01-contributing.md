@@ -28,6 +28,11 @@ git clone https://github.com/YOUR-GITHUB-USERNAME/NAME-OF-YOUR-REPO.git
 cd NAME-OF-YOUR-REPO
 ```
 
+The site is built using Jekyll, hosted by github pages. When making changes to a github pages
+site, we will push to the `gh-pages` branch.
+Make sure you're working on this branch by running:
+```git checkout gh-pages```
+
 The github pages site will likely not build right away after forking, and instead
 builds after your first commit. Make a minor edit to `README.md` locally,
 and commit and push your changes.
@@ -41,15 +46,11 @@ git commit -m "First commit to t4ds fork"
 git push origin gh-pages
 ```
 
-You can see this by inspecting the
+The site should then build within a minute or two.
+You can see the result by inspecting the
 `actions` tab in the `gh-pages` branch. It should be located at the following address:
 
 `https://YOUR-GITHUB-USERNAME.github.io/NAME-OF-YOUR-REPO/`
-
-The site is built using Jekyll, hosted by github pages. When making changes to a github pages
-site, we will push to the `gh-pages` branch.
-Make sure you're working on this branch by running:
-```git checkout gh-pages```
 
 If you'd like to build the
 site locally, it should work by installing Jekyll, and running
