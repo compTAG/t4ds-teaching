@@ -9,43 +9,39 @@ tags:
 
 ## Getting Started
 
-This tutorial assumes basic familiarity with `git`, but
+This tutorial assumes basic familiarity with git, but
 we will try to insert the required git commands when they're first
-introduced in dropdown commands. If you need help with git,
+introduced in dropdown commands. If you need help with git and github,
 feel free to ask us or to consult the
 [software carpentries tutorial](https://swcarpentry.github.io/git-novice/).
 
-Begin by creating a new repository on github for your project, and cloning the repository
-located at this url:
+Begin by forking the T4DS github repository, located at this address:
 
-`https://github.com/compTAG/t4ds`
+https://github.com/compTAG/t4ds
 
-The cleanest way to do this is by mirroring our repository. Do this with a bare clone:
+This should create a version of the T4DS repository that you can edit independently.
 
-```
-git clone --bare https://github.com/compTAG/t4ds
-cd t4ds.git
-git push --mirror https://github.com/YOUR-GITHUB-USERNAME/NAME-OF-YOUR-REPO.git
-```
-
-Where you push to a newly created repo of your own. We would suggest also just calling this repo
-`t4ds`, although any name should be fine.
-
-Then you can delete the temporary repo you first cloned:
-
-```
-cd ..
-rm -rf t4ds.git
-```
-
-And clone your newly mirrored github repo (under your user, or organization):
+Clone your new repo (under your user, or organization) to work locally:
 
 ```
 git clone https://github.com/YOUR-GITHUB-USERNAME/NAME-OF-YOUR-REPO.git
 cd NAME-OF-YOUR-REPO
 ```
 
-It should start building automatically in your repo. You can see this by inspecting the
+The github pages site will likely not build right away after forking, and instead
+builds after your first commit. Make a minor edit to `README.md` locally,
+and commit and push your changes.
+
+For example, rename the readme header to `My T4DS Workshop`, and then push to the
+gh-pages branch. As a reminder, this is done with:
+
+```
+git add README.md
+git commit -m "First commit to t4ds fork"
+git push origin gh-pages
+```
+
+You can see this by inspecting the
 `actions` tab in the `gh-pages` branch. It should be located at the following address:
 
 `https://YOUR-GITHUB-USERNAME.github.io/NAME-OF-YOUR-REPO/`
