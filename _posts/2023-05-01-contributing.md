@@ -17,7 +17,7 @@ feel free to ask us or to consult the
 
 Begin by forking the T4DS github repository, located at this address:
 
-[https://github.com/compTAG/t4ds](https://github.com/compTAG/t4ds])
+[https://github.com/compTAG/t4ds](https://github.com/compTAG/t4ds)
 
 ![fork](https://comptag.github.io/t4ds-training/assets/images/fork.jpg)
 
