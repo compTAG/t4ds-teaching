@@ -150,7 +150,16 @@ Insert the following `<a>` element in the corresponding
 ```
 
 After committing and pushing, you should see your site update with a new tab, linking to the first tutorial.
-While doing so, you might notice a few things:
+
+<details>
+<summary style="color:blue">Expected Build Result</summary>
+<br>
+<pre style="background-color:lightblue">
+<img src="https://comptag.github.io/t4ds-training/assets/images/navbar2.jpg" alt="pts pairs">
+</pre>
+</details>
+
+During this process, you might have noticed a few things:
 
 1. The base site url is populated by variables set in the `_config.yml` file, which gives build instructions.
 2. It is possible to use logic based on variables set in `_config.yml` (We can even use loops, see line 42 of `footer.html`).
