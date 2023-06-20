@@ -1,8 +1,8 @@
 ---
-title: Example Schedule
+title: Workshop Logistics
 layout: post
 post-image: "https://benholmgren.github.io/t4ds-2023/assets/images/ridge.JPG"
-description: An Example Schedule for a T4DS-like workshop.
+description: Suggestions on workshop logistics, based on our experience.
 tags:
 - schedule
 ---
