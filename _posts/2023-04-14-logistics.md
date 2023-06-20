@@ -12,14 +12,95 @@ tags:
 We advertised the event to math, statistics, and computer science departments 
 throughout the region. This included direct communication with all colleges and 
 universities in Montana
-(including community and tribal colleges), and the flagship institutions in 
+(including community and tribal colleges), and the larger institutions in 
 neighboring states (NDSU, UND, U of Idaho, Boise State, U of Wyoming). We also 
 targeted large email chains and slack groups involving diverse departments
 throughout the country. These included ASA sections, Berkeley Data Science,
 cg-announce, WiML, WinCompTop, and others.
-Our advertising was mostly 
-successful, although we perhaps should've advertised more thoroughly in person
-to MSU students, as well as to Montana colleges and universities more broadly.
+Our advertising was mostly successful,
+although next time we would likely advertise more thoroughly in person
+to MSU students, more specifically to local students in Montana.
+
+For reference, our full advertising materials are located in the dropdowns below:
+
+<details>
+<summary style="color:blue">Here is the flyer we used for advertising.</summary>
+<br>
+<pre style="background-color:lightblue">
+<img src="https://comptag.github.io/t4ds/assets/images/flyer.pdf " alt="pts pairs">
+</pre>
+</details>
+
+<details>
+<summary style="color:blue">Here is the full list of groups we advertised to.</summary>
+<br>
+<pre style="background-color:lightblue">
+- WinCompTop
+- cg-announce
+- WiML
+- ASA JEDI
+- RMMC
+- Goldwater Scholars
+- AISES
+- MSU comon threads
+- X Twitter / FB / LinkedIn
+- MSU library
+- ASA Sections (MT chapter, section on Stat and DS ed, ASA connect
+- MAA Stat Ed and data science listservs
+- Berkeley DS slack
+- Aaniih College (harlem)
+- Bitterroot College of UM (Hamilton)
+- Blackfeet CC
+- Carroll College
+- Chief Dull Knife
+- Dawson CC
+- Flathead Valley CC
+- Fort Peck
+- Gallatin College
+- Little Big Horn
+- Missoula College
+- MSU CS and Math
+- MSU Billings
+- MSU Great Falls
+- MT Tech
+- UM, CS and Math
+- UM Western (Dillon)
+- UM Helena
+- University of Providence
+- Miles CC
+- Rocky Mtn College
+- SKC
+- Stone Child
+- Boise State
+- Idaho State
+- Northwest Nazarene U
+- NDSU
+- North Idaho College
+- U of Idaho
+- University of Wyoming (Laramie)
+</pre>
+</details>
+
+<details>
+<summary style="color:blue">Here is the body of our advertising email.</summary>
+<br>
+<pre style="background-color:lightblue">
+
+On 21-22 April 2023, the Topology for Data Science (T4DS) workshop will immerse 50 undergraduate students in the fast-growing area of data science, through the lens of topology. The workshop will be held in Bozeman, MT. T4DS will start with an overview of how to "think with data" through data exploration and visualization in R, continuing with a brief journey into the field of topology and how to use topological descriptors to summarize data. On the second day, participants will investigate the shape of Montana's glaciers using those topological descriptors. The workshop will also include a panel of faculty members and current graduate students who will speak about their experiences with including undergraduates in research and potential career opportunities in data science.
+
+All undergraduates are encouraged to apply, regardless of major. The only prerequisite is a level of mathematics or computer science equivalent to a first year undergraduate course sequence, and a desire to try something new! Travel funding is available for up to 25 workshop participants. The conference website and workshop application can be found at http://www.montana.edu/datascience. Priority will be given to applications received before 31 January 2023.
+
+If you are a faculty member and would be interested in being on the panel, please contact us using the email below.
+
+Please feel free to forward this email or distribute the attached flyer as you see fit.
+
+We look forward to taking you on this journey through the topological data analysis cycle!
+
+Organizers: Brittany Terese Fasy and Ben Holmgren Contact: brittany.fasy@montana.edu
+</pre>
+</details>
+
+
 
 
 ## T4DS Event Schedule
