@@ -164,5 +164,91 @@ Otherwise, the tutorials use standard Markdown syntax. If you need a review of t
 the [markdown syntax guide](https://www.markdownguide.org/basic-syntax/) might be
 helpful.
 
+Aside from the standard Markdown syntax, the only nontrivial addition we made was to
+have dropdowns throughout our tutorials using embedded html.
+
+The syntax for these dropdowns is as follows. We used blue dropdowns for helpful notes,
+orange for additional information on a topic, and red was for answers to activity
+questions.
+
+```
+<details>
+<summary style="color:blue">A Blue Dropdown</summary>
+<br>
+<pre style="background-color:lightblue">
+The insightful text inside a blue dropdown. We normally use these for helpful notes.
+</pre>
+</details>
+```
+
+Which will render as:
+
+<details>
+<summary style="color:blue">A Blue Dropdown</summary>
+<br>
+<pre style="background-color:lightblue">
+The insightful text inside a blue dropdown. We normally use these for helpful notes.
+</pre>
+</details>
+
+
+Along with text, it is also possible to embed an image in a dropdown:
+
+```
+<details>
+<summary style="color:red">A Red Dropdown</summary>
+<br>
+<pre style="background-color:lightcoral">
+<img src="https://comptag.github.io/t4ds/assets/images/pts-weight.jpg " alt="pts pairs">
+</pre>
+</details>
+```
+
+Which will render as:
+
+<details>
+<summary style="color:red">A Red Dropdown</summary>
+<br>
+<pre style="background-color:lightcoral">
+<img src="https://comptag.github.io/t4ds/assets/images/pts-weight.jpg " alt="pts pairs">
+</pre>
+</details>
+
+We can even embded code in a dropdown:
+
+```
+<details>
+<summary style="color:DarkOrange">More Info</summary>
+<br>
+<pre style="background-color:Gold">
+<code>
+Diag1966 <- gridDiag(X=dfGlac, FUNvalues = distances, maxdimension = 1, sublevel = TRUE, printProgress = TRUE)
+</code>
+</pre>
+</details>
+```
+
+Which will render as:
+
+<details>
+<summary style="color:DarkOrange">More Info</summary>
+<br>
+<pre style="background-color:Gold">
+<code>
+Diag1966 <- gridDiag(X=dfGlac, FUNvalues = distances, maxdimension = 1, sublevel = TRUE, printProgress = TRUE)
+</code>
+</pre>
+</details>
+
+If you need to write math, the standard latex syntax should work
+(even in a dropdown):
+
+`$\mathbb{M}\mathcal{A}\mathcal{T}\mathcal{H}$`
+
+Which will render as:
+
+$\mathbb{M}\mathcal{A}\mathcal{T}\mathcal{H}$
+
+
 
 ---
