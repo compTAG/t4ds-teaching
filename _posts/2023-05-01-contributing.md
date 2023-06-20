@@ -231,7 +231,7 @@ Diag1966 <- gridDiag(X=dfGlac, FUNvalues = distances, maxdimension = 1, sublevel
 Which will render as:
 
 <details>
-<summary style="color:DarkOrange">More Info</summary>
+<summary style="color:DarkOrange">An Orange Dropdown</summary>
 <br>
 <pre style="background-color:Gold">
 <code>
