@@ -7,12 +7,28 @@ tags:
 - schedule
 ---
 
+## T4DS Event Advertising
+
+We advertised the event to math, statistics, and computer science departments 
+throughout the region. This included direct communication with all colleges and 
+universities in Montana
+(including community and tribal colleges), and the flagship institutions in 
+neighboring states (NDSU, UND, U of Idaho, Boise State, U of Wyoming). We also 
+targeted large email chains and slack groups involving diverse departments
+throughout the country. These included ASA sections, Berkeley Data Science,
+cg-announce, WiML, WinCompTop, and others.
+Our advertising was mostly 
+successful, although we perhaps should've advertised more thoroughly in person
+to MSU students, as well as to Montana colleges and universities more broadly.
+
+
 ## T4DS Event Schedule
 
 The following table contains the rough schedule used during the T4DS workshop. 
-In general, the timing of each tutorial seemed sufficient to build onto susequent tutorials.
-We supplemented sessions with office hours to clear issues in understanding, and
-answered additional questions from participants during breaks.
+In general, the timing of each tutorial seemed sufficient to build onto susequent 
+tutorials. We supplemented sessions with office hours to clear issues in 
+understanding, and answered additional questions from participants during breaks.
+We found that it was especially helpful
 
 | Date        | Time        | Event       |
 | ----------- | ----------- | ----------- |
@@ -34,15 +50,24 @@ answered additional questions from participants during breaks.
 | Sunday, 4/23   | All day       | Hotel checkout and depart |
 
 
-For reference, our workshop was hosted at the Bozeman Event Space, in the 
-North Ballroom (14 S. Tracy Ave, Bozeman, MT 59715). We had access to projectors and TVs,
-and sat roughly three participants per table. We encouraged students to switch their seating
-arrangements in order to make new connections.
+## T4DS Event Venue
 
-Dinner and a panel (especially if one has access to funding for these events), seemed to be
-a beneficial addition to the workshop. We recieved verbal feedback that the panel
-with a wide array of data science professionals was especially helpful. The panel included
-faculty in math, cs, statistics, and programming/data science industry careers.
+For reference, our workshop was hosted at the Bozeman Event Space, in the 
+North Ballroom (14 S. Tracy Ave, Bozeman, MT 59715). We had access to projectors and 
+TVs, and sat roughly three participants per table. We encouraged students to switch 
+their 
+seating arrangements in order to make new connections.
+
+## T4DS Panel
+
+Dinner and a panel (especially if one has access to funding for these events), seemed 
+to be a beneficial addition to the workshop. We recieved verbal feedback that the 
+panel with a wide array of data science professionals was especially helpful. The 
+panel included faculty in math, cs, statistics, and programming/data science industry 
+careers. The panel was led by a current undergraduate student who has worked in our
+group for several years, and was a peer for audience members.
+
+## T4DS Event Assessment
 
 
 ---
