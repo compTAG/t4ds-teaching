@@ -86,11 +86,24 @@ For reference, our full advertising materials are located in the dropdowns below
 <br>
 <pre style="background-color:lightblue">
 
-On 21-22 April 2023, the Topology for Data Science (T4DS) workshop will immerse 50 undergraduate students in the fast-growing area of data science, through the lens of topology. The workshop will be held in Bozeman, MT. T4DS will start with an overview of how to "think with data" through data exploration and visualization in R, continuing with a brief journey into the field of topology and how to use topological descriptors to summarize data. On the second day, participants will investigate the shape of Montana's glaciers using those topological descriptors. The workshop will also include a panel of faculty members and current graduate students who will speak about their experiences with including undergraduates in research and potential career opportunities in data science.
+On 21-22 April 2023, the Topology for Data Science (T4DS) workshop will immerse 50 undergraduate 
+students in the fast-growing area of data science, through the lens of topology. The workshop will be 
+held in Bozeman, MT. T4DS will start with an overview of how to "think with data" through data 
+exploration and visualization in R, continuing with a brief journey into the field of topology and 
+how to use topological descriptors to summarize data. On the second day, participants will 
+investigate the shape of Montana's glaciers using those topological descriptors. The workshop will 
+also include a panel of faculty members and current graduate students who will speak about their 
+experiences with including undergraduates in research and potential career opportunities in data 
+science.
 
-All undergraduates are encouraged to apply, regardless of major. The only prerequisite is a level of mathematics or computer science equivalent to a first year undergraduate course sequence, and a desire to try something new! Travel funding is available for up to 25 workshop participants. The conference website and workshop application can be found at http://www.montana.edu/datascience. Priority will be given to applications received before 31 January 2023.
+All undergraduates are encouraged to apply, regardless of major. The only prerequisite is a level of 
+mathematics or computer science equivalent to a first year undergraduate course sequence, and a 
+desire to try something new! Travel funding is available for up to 25 workshop participants. The 
+conference website and workshop application can be found at http://www.montana.edu/datascience. 
+Priority will be given to applications received before 31 January 2023.
 
-If you are a faculty member and would be interested in being on the panel, please contact us using the email below.
+If you are a faculty member and would be interested in being on the panel, please contact us using 
+the email below.
 
 Please feel free to forward this email or distribute the attached flyer as you see fit.
 
