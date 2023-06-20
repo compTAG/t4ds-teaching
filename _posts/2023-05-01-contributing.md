@@ -98,7 +98,7 @@ Likely, you will want to change the heroimage to something specific to your work
 2. Linking to an image on the internet within the assets of this website
 3. Linking to an image using relative path within the directory.
 
-In our experience, options 1 and 2 are preferable, as option 3 (relative paths) 
+In our experience, options 1 and 2 are preferable, as option 3 (relative path) 
 is often
 inconsistent and dependent on unknown build settings, the chosen theme, various 
 versions of jekyll, and perhaps even the weather.
@@ -107,6 +107,19 @@ Try changing the heroimage to an (open source) image on the internet of your cho
 this image from the NPS of a utah rock with interesting topology:
 
 `https://www.nps.gov/npgallery/GetAsset/1FE16D77-155D-451F-67BEAA70882EBD52/proxy/hires?`
+
+<details>
+<summary style="color:blue">Expected Build Result</summary>
+<br>
+<pre style="background-color:lightblue">
+<img src="https://comptag.github.io/t4ds-training/assets/images/heroimage.jpg" alt="pts pairs">
+</pre>
+</details>
+
+Somemtimes the new heroimage can sometimes take a minute to show up correctly.
+If it is not appearing, try changing another variable in the `_config.yml`, such as
+the author name, or proceed patiently. Your background will change eventually,
+patience is one of the unfortunate requirements of working with Jekyll.
 
 ### Changes to Site Structure
 
