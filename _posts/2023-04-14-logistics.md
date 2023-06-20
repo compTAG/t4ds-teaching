@@ -27,7 +27,7 @@ For reference, our full advertising materials are located in the dropdowns below
 <summary style="color:blue">Here is the flyer we used for advertising.</summary>
 <br>
 <pre style="background-color:lightblue">
-<img src="https://comptag.github.io/t4ds/assets/images/flyer.pdf " alt="pts pairs">
+<img src="https://comptag.github.io/t4ds-training/assets/images/flyer.pdf " alt="pts pairs">
 </pre>
 </details>
 
