@@ -1,5 +1,5 @@
 ---
-title: Instructions for Contributing to the T4DS Site Structure
+title: Instructions for Contributing to the T4DS Site Template
 layout: post
 post-image: "https://comptag.github.io/t4ds-training/assets/images/beehive.jpg"
 description: How to use the T4DS Workshop materials, or adapt them to your own workshop setting.
@@ -53,7 +53,7 @@ It should start building automatically in your repo. You can see this by inspect
 The site is built using Jekyll, hosted by github pages. When making changes to a github pages
 site, we will push to the `gh-pages` branch.
 Make sure you're working on this branch by running:
-````git checkout gh-pages```
+```git checkout gh-pages```
 
 If you'd like to build the
 site locally, it should work by installing Jekyll, and running
@@ -121,5 +121,48 @@ affect the entire site!
 
 If you would like more practice making these kinds of edits, we suggest customizing the site footer.
 Perhaps try changing the links in the site footer from MSU associated websites to your own.
+
+### Writing Workshop Materials
+
+You are welcome to edit, reuse, or get rid of any T4DS content when 
+running your own workshop, 
+being sure to cite materials appropriately. The entirety of the 
+workshop materials can be edited in `.md` files in the `_posts` directory.
+
+The structure of these posts is as follows:
+
+#### Title
+
+The `.md` files used to generate workshop materials
+are titled in the format `yyyy-mm-dd-title.md`.
+
+The choice in date matters for nothing other than assembling the order
+of blog posts under the `WORKSHOP MATERIALS` tab (which you locally changed to 
+`MY NEW TUTORIALS`). This type of ordering by date is the native Jekyll format, so we 
+ran with it. As you might notice, posts are ordered starting with the most recent
+date, and ending with the furthest in the past. We chose dates accordingly to give
+the desired order.
+
+#### Markdown Header
+
+The header of a tutorial is designated by the following variables:
+
+```
+---
+title: Insert Page Title
+layout: post
+post-image: "https://www.link-to-image.com"
+description: Description of what the tutorial hopes to accomplish
+tags:
+- related topics to this tutorial
+- and another
+- etc
+---
+```
+
+Otherwise, the tutorials use standard Markdown syntax. If you need a review of that,
+the [markdown syntax guide](https://www.markdownguide.org/basic-syntax/) might be
+helpful.
+
 
 ---
