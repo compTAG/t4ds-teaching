@@ -309,6 +309,7 @@ Where will this post appear in the `MY NEW TUTORIALS` tab?
 Pick any title, image, and description you would like, and start adding text
 in the markdown document. If you need inspiration, the following url contains
 another good image from the NPS you could base the post on (and link to as an image):
+
 [https://www.nps.gov/npgallery/GetAsset/F35A177B-1DD8-B71B-0B13407634E7DE52/proxy/hires?](https://www.nps.gov/npgallery/GetAsset/F35A177B-1DD8-B71B-0B13407634E7DE52/proxy/hires?)
 
 Perhaps try adding a markdown header (using `#` syntax), a dropdown, and a 
