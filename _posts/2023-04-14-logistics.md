@@ -69,6 +69,24 @@ group for several years, and was a peer for audience members.
 
 ## T4DS Event Assessment
 
+Assessment is an important step that should not be forgotten. When designing
+your assessment, consider the reason for offering the assessment:
+
+* Do you plan to offer this workshop again and want to know how to improve it?
+* Do you need to report to a funding agency?
+* Do you plan to use the results in research? (If so, don't forget the IRB!)
+
+See the [T4DS exit survey](https://comptag.github.io/t4ds-training/assets/T4DS-exit-survey.pdf)
+as an example. You are welcome to use this one, or create your own.  When
+creating your own, we suggest trying to find surveys that have been used before
+rather than reinventing the wheel from scratch.
+
+Note: it is perfectly ok to slip in assessment questions in the
+[application/registration](https://comptag.github.io/t4ds-training/assets/T4DS-app.pdf).
+
+Breakout room: how would different reasons for needing assessments affect the
+types of questions that you might ask?
+
 ## Exit Survey
 
 Speaking of assessment, please fill out [this exit survey](https://montana.qualtrics.com/jfe/form/SV_4I0PoaPCGCkFPYW).
