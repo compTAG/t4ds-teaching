@@ -1,7 +1,7 @@
 ---
 title: Instructions for Contributing to the T4DS Site Structure
 layout: post
-post-image: "https://comptag.github.io/t4ds-teaching/assets/images/beehive.jpg"
+post-image: "https://comptag.github.io/t4ds-training/assets/images/beehive.jpg"
 description: How to use the T4DS Workshop materials, or adapt them to your own workshop setting.
 tags:
 - schedule
