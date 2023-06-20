@@ -17,7 +17,7 @@ feel free to ask us or to consult the
 
 Begin by forking the T4DS github repository, located at this address:
 
-https://github.com/compTAG/t4ds
+[https://github.com/compTAG/t4ds](https://github.com/compTAG/t4ds])
 
 ![fork](https://comptag.github.io/t4ds-training/assets/images/fork.jpg)
 
@@ -299,6 +299,19 @@ Which will render as:
 
 $\mathbb{M}\mathcal{A}\mathcal{T}\mathcal{H}$
 
+### Make Your Own Post!
 
+As a concluding activity, in breakout rooms we will have you make a new
+post together.
+Title the file `2023-06-21-example.md`. 
+Where will this post appear in the `MY NEW TUTORIALS` tab?
+
+Pick any title, image, and description you would like, and start adding text
+in the markdown document. If you need inspiration, the following url contains
+another good image from the NPS you could base the post on (and link to as an image):
+[https://www.nps.gov/npgallery/GetAsset/F35A177B-1DD8-B71B-0B13407634E7DE52/proxy/hires?](https://www.nps.gov/npgallery/GetAsset/F35A177B-1DD8-B71B-0B13407634E7DE52/proxy/hires?)
+
+Perhaps try adding a markdown header (using `#` syntax), a dropdown, and a 
+mathematical equation.
 
 ---
