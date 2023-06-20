@@ -314,4 +314,8 @@ another good image from the NPS you could base the post on (and link to as an im
 Perhaps try adding a markdown header (using `#` syntax), a dropdown, and a 
 mathematical equation.
 
+## Credits
+
+- All linked images are open source from the National Parks Service, or taken by Ben Holmgren.
+
 ---
