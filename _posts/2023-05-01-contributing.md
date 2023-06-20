@@ -65,9 +65,9 @@ You can see the result by inspecting the
 If you'd like to build the
 site locally, it should work by installing Jekyll, and running
 `bundle exec jekyll serve`. Often Jekyll can be tricky to get installed and
-working properly, so it is also fine to build live. If you would like to try your luck
-with jekyll locally, [here are instructions to get it running](https://jekyllrb.com/docs/installation/).
-
+working properly, so it is also fine to build live. If you would like to try your 
+luck with jekyll locally, 
+[here are instructions to get it running](https://jekyllrb.com/docs/installation/).
 
 ## Working in the T4DS Repository
 
@@ -85,10 +85,23 @@ If you need ideas, maybe change the title to something like
 
 You can try testing your changes by pushing to the `gh-pages` branch. They should be updated in a minute or two.
 
+<details>
+<summary style="color:blue">Expected Build Result</summary>
+<br>
+<pre style="background-color:lightblue">
+<img src="https://comptag.github.io/t4ds-training/assets/images/title.jpg" alt="pts pairs">
+</pre>
+</details>
+
 Likely, you will want to change the heroimage to something specific to your workshop. This can be done by either:
 1. Linking to an image somewhere on the internet (for example, we used open source NPS images.)
 2. Linking to an image on the internet within the assets of this website
 3. Linking to an image using relative path within the directory.
+
+In our experience, options 1 and 2 are preferable, as option 3 (relative paths) 
+is often
+inconsistent and dependent on unknown build settings, the chosen theme, various 
+versions of jekyll, and perhaps even the weather.
 
 Try changing the heroimage to an (open source) image on the internet of your choice. For example, you could try
 this image from the NPS of a utah rock with interesting topology:
