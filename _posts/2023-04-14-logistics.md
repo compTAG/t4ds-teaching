@@ -28,7 +28,10 @@ The following table contains the rough schedule used during the T4DS workshop.
 In general, the timing of each tutorial seemed sufficient to build onto susequent 
 tutorials. We supplemented sessions with office hours to clear issues in 
 understanding, and answered additional questions from participants during breaks.
-We found that it was especially helpful
+We found that it was especially helpful to take extra time on hands on activities,
+and to work through simple examples first with a TA, and then together on a 
+whiteboard. Based on our feedback, the glacier data activity seemed to be a 
+successful culmination of the skills gathered throughout the workshop.
 
 | Date        | Time        | Event       |
 | ----------- | ----------- | ----------- |
