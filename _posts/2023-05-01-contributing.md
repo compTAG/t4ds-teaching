@@ -19,9 +19,11 @@ Begin by forking the T4DS github repository, located at this address:
 
 https://github.com/compTAG/t4ds
 
+![fork](https://comptag.github.io/t4ds-training/assets/images/fork.jpg)
+
 This should create a version of the T4DS repository that you can edit independently.
 
-Clone your new repo (under your user, or organization) to work locally:
+Move to your desired working directory, and clone your new repo (under your user, or organization) to work locally:
 
 ```
 git clone https://github.com/YOUR-GITHUB-USERNAME/NAME-OF-YOUR-REPO.git
@@ -51,6 +53,14 @@ You can see the result by inspecting the
 `actions` tab in the `gh-pages` branch. It should be located at the following address:
 
 `https://YOUR-GITHUB-USERNAME.github.io/NAME-OF-YOUR-REPO/`
+
+<details>
+<summary style="color:blue">Expected Github Actions Result</summary>
+<br>
+<pre style="background-color:lightblue">
+<img src="https://comptag.github.io/t4ds-training/assets/images/built.jpg" alt="pts pairs">
+</pre>
+</details>
 
 If you'd like to build the
 site locally, it should work by installing Jekyll, and running
