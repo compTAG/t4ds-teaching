@@ -55,8 +55,11 @@ We found that it was especially helpful
 For reference, our workshop was hosted at the Bozeman Event Space, in the 
 North Ballroom (14 S. Tracy Ave, Bozeman, MT 59715). We had access to projectors and 
 TVs, and sat roughly three participants per table. We encouraged students to switch 
-their 
-seating arrangements in order to make new connections.
+their seating arrangements in order to make new connections. Our venue had fast
+wifi, which was crucial to the success of our workshop and our use of RStudio cloud.
+In a small group such as ours, it worked fine to have people use either their local
+environment or the cloud, though inevitably doing so exposes bugs unique to a local
+(unintended) environment that would be hard to get through with a large group.
 
 ## T4DS Panel
 
