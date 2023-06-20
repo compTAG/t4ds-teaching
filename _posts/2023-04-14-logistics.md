@@ -69,5 +69,8 @@ group for several years, and was a peer for audience members.
 
 ## T4DS Event Assessment
 
+## Exit Survey
+
+Speaking of assessment, please fill out [this exit survey](https://montana.qualtrics.com/jfe/form/SV_4I0PoaPCGCkFPYW).
 
 ---
